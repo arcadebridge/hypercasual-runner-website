@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title> </title>
+      <title>Evolution Of Crowds </title>
       <meta name="viewport" content="width=device-width">
-      <meta name="title" content=" ">
+      <meta name="title" content="Evolution Of Crowds ">
     
       <link rel="shortcut icon" href="../favicon.ico">
       <link rel="stylesheet" href="../styles/docfx.vendor.css">
@@ -66,13 +66,15 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
+<h2 id="evolution-of-crowds">Evolution Of Crowds</h2>
 
-<p>This is another crowd populating game which is similar to the County Masters. You can find the example in <code>Demos/_Games/EvolutionOfCrowds/EoC_Gameplay.scene</code>. Player gameObject is similar to the one from Master Of Counts game. We are now using <strong>TransformationLevelMonitor</strong> instead of PopulationCountMonitor.</p>
-<p>One key difference is that now we have a component TransformationModifier. It TrasnformationModifiables, which can mean activating/deactivating child gameObjects of one gameObject, or it can mean custom thing that you can bind with UnityEvent. When you disable Should Change Game Objects, you can use UnityEvent. However in this context, we are changing gameObjects.</p>
+<p>Characters go throught gates and they evolve into better characters. They attack more with different projectiles. Characters face enemies that can kill our characters. They also have a health so we can kill those.</p>
+<p>This is another crowd populating game which is similar to the County Masters. You can find the example in <code>Demos/_Games/EvolutionOfCrowds/EoC_Gameplay.scene</code>.</p>
+<p>Player gameObject is similar to the one from Master Of Counts game. We are now using <strong>TransformationLevelMonitor</strong> instead of PopulationCountMonitor. One key difference is that now we have a component TransformationModifier. It TrasnformationModifiables, which can mean activating/deactivating child gameObjects of one gameObject, or it can mean custom thing that you can bind with UnityEvent. When you disable Should Change Game Objects, you can use UnityEvent. However in this context, we are changing gameObjects.</p>
 <p>Other difference is we also have ProjctileShooterModifier component. Remember that PopulatedEntities need to have corresponding Modifiable component in order to work! ProjectileShooterModifiable listens Transformation events, so if one of our child gameObject changes, it grabs that gameObject and uses it's ProjectileShooter. One core difference between this Modifiable with the other ones is that this requires you to assign ProjectileShooter to every child gameObject of PopulatedEntity. This way every child can shoot something different, which is what you would want!</p>
 <p>Gates now uses Collectable with <strong>TransformationEffect</strong> which manipulates transformations. If <strong>useDirectTransformation</strong> is enabled, it directly increases transformation level, thus shows immediate effect on the gameObject it touches. If however useDirectTransformation is disabled, then it adds Experience which is a generic term for telling when experience passes some threshold, it levels up, instead of directly increasing. If useDirectTransformation is disabled, you also need to set it on TransformationModifier. Then it will require you to add a <strong>IntThreshold</strong>, which is a experience threshold that you can set for levelling up.</p>
 <p>DamageableEntities have a <strong>Damageable</strong> component, <strong>DamageableMonitor</strong> which listens Damageable and shows the current health. It also has a <strong>BlinkFeedback</strong> which Damageable uses when takes hit. It's also PopulatedEntityObstacle with <strong>Kill</strong> type with hasLimitedLife enabled. Which means it can't kill every PopulatedEntities you have, it will die after that many entity it kills.</p>
-<p>For understanding what every parameter does, please read the Tooltips.</p>
+<p>For understanding what every parameter does, please read the tooltips and comments.</p>
 </article>
           </div>
 

@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title> </title>
+      <title>Evolution Of Cars </title>
       <meta name="viewport" content="width=device-width">
-      <meta name="title" content=" ">
+      <meta name="title" content="Evolution Of Cars ">
     
       <link rel="shortcut icon" href="../favicon.ico">
       <link rel="stylesheet" href="../styles/docfx.vendor.css">
@@ -66,14 +66,13 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
+<h2 id="evolution-of-cars">Evolution Of Cars</h2>
 
-<p>You can find the example in <code>Demos/_Games/EvolutionOfCars/EoCars_Gameplay.scene</code>. Player gameObject is similar to the one from Evolution of Crowds game. We don't need to use projectile shooting so we have removed ProjctileShooterModifier component.</p>
-<p>We only have one PopulatedEntity which is fine, it's a racing game! But take a closer look at the child gameObjects. They have a component <strong>MoveSpeedDefinition</strong> which changes RunnerMover speed when gameObject is enabled. This way every vehicle can have different move speeds!</p>
-<p>Gates now uses experience instead of direct transformation. TransformationModifier component has a VehiclesThreshold which holds values for transitioning to the next level.</p>
-<p>We also have small lightning collectables which acts the same as gates, but they don't have any CollectableChoice parent object.</p>
-<p>We have Tenderizers with ObstacleType Kill, they are basically threat we shouldn't touch.</p>
-<p>Obstacle Abyss is also threat which kills our vehicle.</p>
-<p>For understanding what every parameter does, please read the Tooltips.</p>
+<p>This is a game where we control a vehicle. There are gates which when we pass through, they evolve vehicle. The more evolved the vehicle is, the faster it goes. There are obstacles that kills vehicle when vehicle touches those.</p>
+<p>You can find the example in <code>Demos/_Games/EvolutionOfCars/EoCars_Gameplay.scene</code>.</p>
+<p>Player gameObject is similar to the one from Evolution of Crowds game. We don't need to use projectile shooting so we have removed ProjctileShooterModifier component. We only have one PopulatedEntity which is fine, it's a racing game! But take a closer look at the child gameObjects. They have a component <strong>MoveSpeedDefinition</strong> which changes RunnerMover speed when gameObject is enabled. This way every vehicle can have different move speeds!</p>
+<p>Gates now uses experience instead of direct transformation. TransformationModifier component has a VehiclesThreshold which holds values for transitioning to the next level. We also have small lightning collectables which acts the same as gates, but they don't have any CollectableChoice parent object. We have Tenderizers with ObstacleType Kill, they are basically threat we shouldn't touch. Obstacle Abyss is also threat which kills our vehicle.</p>
+<p>For understanding what every parameter does, please read the tooltips and comments.</p>
 </article>
           </div>
 
