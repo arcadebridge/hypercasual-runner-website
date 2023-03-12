@@ -1,0 +1,167 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+
+  <head>
+    <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>Namespace HyperCasualRunner
+ </title>
+      <meta name="viewport" content="width=device-width">
+      <meta name="title" content="Namespace HyperCasualRunner
+ ">
+    
+      <link rel="shortcut icon" href="../favicon.ico">
+      <link rel="stylesheet" href="../styles/docfx.vendor.css">
+      <link rel="stylesheet" href="../styles/docfx.css">
+      <link rel="stylesheet" href="../styles/main.css">
+      <meta property="docfx:navrel" content="../toc.html">
+      <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="HyperCasualRunner">
+
+  <h1 id="HyperCasualRunner" data-uid="HyperCasualRunner" class="text-break">Namespace HyperCasualRunner
+</h1>
+  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="markdown level0 remarks"></div>
+    <h3 id="classes">Classes
+</h3>
+      <h4><a class="xref" href="HyperCasualRunner.BattleArea.html">BattleArea</a></h4>
+      <section><p>Battle Area that is spawned when battle begins, for games like Count Masters</p>
+</section>
+      <h4><a class="xref" href="HyperCasualRunner.BattleAreaTrigger.html">BattleAreaTrigger</a></h4>
+      <section></section>
+      <h4><a class="xref" href="HyperCasualRunner.BlinkFeedback.html">BlinkFeedback</a></h4>
+      <section></section>
+      <h4><a class="xref" href="HyperCasualRunner.Collectable.html">Collectable</a></h4>
+      <section><p>It gathers all possible CollectableEffects and applies them when PopulationManagerBase contacts with Collectable's collider. You can use multiple effects
+and all of them would be applied to the PopulationManagerBase.</p>
+</section>
+      <h4><a class="xref" href="HyperCasualRunner.CollectableChoice.html">CollectableChoice</a></h4>
+      <section><p>If you want to have multiple collectables but one of them can be chosen. Others are disabled.</p>
+</section>
+      <h4><a class="xref" href="HyperCasualRunner.Damageable.html">Damageable</a></h4>
+      <section><p>Damage sources like Projectiles attacks this. It contains health and if it falls below 0, it dies.
+Class itself is extensible by allowing you to bind other methods using UnityEvents.</p>
+</section>
+      <h4><a class="xref" href="HyperCasualRunner.DOTweenInitializer.html">DOTweenInitializer</a></h4>
+      <section></section>
+      <h4><a class="xref" href="HyperCasualRunner.FrameRateSetter.html">FrameRateSetter</a></h4>
+      <section></section>
+      <h4><a class="xref" href="HyperCasualRunner.JumpTrigger.html">JumpTrigger</a></h4>
+      <section><p>Use this to trigger jump for PopulatedEntities.</p>
+</section>
+      <h4><a class="xref" href="HyperCasualRunner.OrganizeTrigger.html">OrganizeTrigger</a></h4>
+      <section><p>Use this to trigger organizing of CrowdManager manually.</p>
+</section>
+      <h4><a class="xref" href="HyperCasualRunner.Player.html">Player</a></h4>
+      <section><p>Brain of the player object, it acts like a composition root for other components like RunnerMover, PopulationManagerBase.</p>
+</section>
+      <h4><a class="xref" href="HyperCasualRunner.Projectile.html">Projectile</a></h4>
+      <section><p>Projectile Pool spawns this, ProjectileShooterModifier uses this to shoot Projectile. It contains damage and speed of the projectiles.</p>
+</section>
+      <h4><a class="xref" href="HyperCasualRunner.ProjectileShooter.html">ProjectileShooter</a></h4>
+      <section><p>ProjectileShooterModifiable uses this class for picking right Projectile for the active PopulatedEntity. Use this when you have multiple gameObjects (like playerLevel1, playerLevel2) and
+everyone of them shoots different projectile. You can see the example in Crowd Evolution demo scene.</p>
+</section>
+      <h4><a class="xref" href="HyperCasualRunner.TransformationSingle.html">TransformationSingle</a></h4>
+      <section><p>Transforms TransformationModifiable one by one, just like cup filling coffee machines in Coffee Stack game</p>
+</section>
+      <h4><a class="xref" href="HyperCasualRunner.UIJoystick.html">UIJoystick</a></h4>
+      <section><p>It's a general purpose joystick.</p>
+</section>
+    <h3 id="structs">Structs
+</h3>
+      <h4><a class="xref" href="HyperCasualRunner.HitDamageInfo.html">HitDamageInfo</a></h4>
+      <section></section>
+    <h3 id="enums">Enums
+</h3>
+      <h4><a class="xref" href="HyperCasualRunner.BattleResult.html">BattleResult</a></h4>
+      <section></section>
+</article>
+          </div>
+
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+      
+      <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
