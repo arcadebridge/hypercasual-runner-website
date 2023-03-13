@@ -2831,15 +2831,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "docs/master-of-counts.md",
       "output": {
         ".html": {
           "relative_path": "docs/master-of-counts.html",
-          "hash": "g0sDZFOh/6tmEACuLScdK/OfMAhAHrXDzFQ1Q8D8C2Q="
+          "hash": "K62zmh65U/mGqWhh7H+aNqTvjB1fQC69rIGOzwhY/S4="
         }
       },
       "version": ""
@@ -2867,15 +2864,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "docs/stack-of-coffees.md",
       "output": {
         ".html": {
           "relative_path": "docs/stack-of-coffees.html",
-          "hash": "6L9hyACioCQC+6p5BbMNldnmhJC38zEPoBhy/dMVopg="
+          "hash": "20TAmofGQxtHEZy2RzjXQ//37wW8F4P8be4PgO7UJbo="
         }
       },
       "version": ""
