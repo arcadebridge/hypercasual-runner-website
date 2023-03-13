@@ -66,10 +66,13 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h2 id="evolution-of-cars">Evolution Of Cars</h2>
+<h1 id="evolution-of-cars">Evolution Of Cars</h1>
 
-<p>This is a game where we control a vehicle. There are gates which when we pass through, they evolve vehicle. The more evolved the vehicle is, the faster it goes. There are obstacles that kills vehicle when vehicle touches those.</p>
+<div class="NOTE">
+<h5>Note</h5>
 <p>You can find the example in <code>Demos/_Games/EvolutionOfCars/EoCars_Gameplay.scene</code>.</p>
+</div>
+<p>This is a game where we control a vehicle. There are gates which when we pass through, they evolve vehicle. The more evolved the vehicle is, the faster it goes. There are obstacles that kills vehicle when vehicle touches those.</p>
 <p>Player gameObject is similar to the one from Evolution of Crowds game. We don't need to use projectile shooting so we have removed ProjctileShooterModifier component. We only have one PopulatedEntity which is fine, it's a racing game! But take a closer look at the child gameObjects. They have a component <strong>MoveSpeedDefinition</strong> which changes RunnerMover speed when gameObject is enabled. This way every vehicle can have different move speeds!</p>
 <p>Gates now uses experience instead of direct transformation. TransformationModifier component has a VehiclesThreshold which holds values for transitioning to the next level. We also have small lightning collectables which acts the same as gates, but they don't have any CollectableChoice parent object. We have Tenderizers with ObstacleType Kill, they are basically threat we shouldn't touch. Obstacle Abyss is also threat which kills our vehicle.</p>
 <p>For understanding what every parameter does, please read the tooltips and comments.</p>

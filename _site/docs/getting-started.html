@@ -5,16 +5,16 @@
   <head>
     <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>Hypercasual Runner Starter Kit User Manual </title>
+      <title>Getting Started </title>
       <meta name="viewport" content="width=device-width">
-      <meta name="title" content="Hypercasual Runner Starter Kit User Manual ">
+      <meta name="title" content="Getting Started ">
     
-      <link rel="shortcut icon" href="favicon.ico">
-      <link rel="stylesheet" href="styles/docfx.vendor.css">
-      <link rel="stylesheet" href="styles/docfx.css">
-      <link rel="stylesheet" href="styles/main.css">
-      <meta property="docfx:navrel" content="toc.html">
-      <meta property="docfx:tocrel" content="docs/toc.html">
+      <link rel="shortcut icon" href="../favicon.ico">
+      <link rel="stylesheet" href="../styles/docfx.vendor.css">
+      <link rel="stylesheet" href="../styles/docfx.css">
+      <link rel="stylesheet" href="../styles/main.css">
+      <meta property="docfx:navrel" content="../toc.html">
+      <meta property="docfx:tocrel" content="toc.html">
     
     
     
@@ -33,8 +33,8 @@
                 <span class="icon-bar"></span>
               </button>
 
-              <a class="navbar-brand" href="index.html">
-                <img id="logo" class="svg" src="logo.svg" alt="">
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
               </a>
             </div>
             <div class="collapse navbar-collapse" id="navbar">
@@ -66,13 +66,15 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="hypercasual-runner-starter-kit-user-manual">Hypercasual Runner Starter Kit User Manual</h1>
+<h1 id="getting-started">Getting Started</h1>
 
-<p><img src="images/runner-kit-cover.png" alt="Runner Starter Kit"></p>
-<h3 id="simple-and-extensible-package-that-allows-any-developer-to-create-beautiful-runner-games-whether-heshe-is-an-experienced-or-beginner">Simple and extensible package that allows any developer to create beautiful runner games whether he/she is an experienced or beginner.</h3>
-<h3 id="you-can-find-the-package-at-unity-asset-store">You can find the package at <strong><a href="https://u3d.as/32mG">Unity Asset Store</a></strong></h3>
-<p>I highly recommend you to look over the demo scenes for learning purposes. Those example games created for you to give a sense of what is possible.</p>
-<p>I also highly recommend that you come to our <strong><a href="https://discord.gg/Nx8kwSBAFb">Discord Server</a></strong> for learning from others, chatting with developers or asking questions!</p>
+<p>Scripts are documented. You can find them inside the scripts or via API references in <a href="/api/">here</a>. Every gameObject that player controls have a Player component. It acts as a manager (composition root) for things like locomotion, or population managers. It listens inputs, enables or disables components, spawns things in startup. So you will see it in every example game.</p>
+<p>RunnerMover is also a component that works really well for nearly every Runner game, so every example has one with different parameters.</p>
+<p>Some kind of Monitor like PopulationCountMonitor will exist on every example too.</p>
+<h1 id="core-principles">Core principles</h1>
+<p>One of the core concepts of this package revolves around PopulationManagers, GenericModifiers and Modifiables. PopulationManagers instantiates PopulatedEntities. GenericModifiers gets the required components from instantiated PopulatedEntities. For example, ProjectileShooterModifier gets ProjectileShooterModifiable from PopulatedEntities.</p>
+<p>When GenericModifiers gets required Modifiables, they act on them. They can transform all of the Modifiables, level up them, increase or decrease scale. It signals them to shoot projectiles, trigger something continously, or set their animator states.</p>
+<p>This way, you can create stacking games or crowd populating games, one of the most popular genre of hypercasual runners!</p>
 </article>
           </div>
 
@@ -105,8 +107,8 @@
       </footer>
     </div>
 
-    <script type="text/javascript" src="styles/docfx.vendor.js"></script>
-    <script type="text/javascript" src="styles/docfx.js"></script>
-    <script type="text/javascript" src="styles/main.js"></script>
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
   </body>
 </html>

@@ -66,14 +66,14 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h2 id="modifying-populated-entities">Modifying Populated Entities</h2>
+<h1 id="modifying-populated-entities">Modifying Populated Entities</h1>
 
 <p>You can define custom behaviours that affects PopulatedEntities in two ways.</p>
 <ol>
 <li>Modifying all of them at once</li>
 <li>Modifying one at a time</li>
 </ol>
-<p>Below you can see the corresponding solutions for the use cases:</p>
+<h3 id="below-you-can-see-the-corresponding-solutions-for-the-use-cases">Below you can see the corresponding solutions for the use cases:</h3>
 <ol>
 <li>Extending GenericModifier<t>, you can create new type T that allows you to modify every PopulatedEntity. Projectile shooting, playing animations or transforming objects uses the same logic behind the scene. So feel free to add your own Modifier - Modifiable pair and modify PopulatedEntities!</t></li>
 <li>You can directly affect PopulatedEntities one at a time instead of everyone at the same time. It's more straightforward, you can see from the example:</li>

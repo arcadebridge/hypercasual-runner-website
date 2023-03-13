@@ -66,10 +66,13 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h2 id="stack-of-coffees">Stack Of Coffees</h2>
+<h1 id="stack-of-coffees">Stack Of Coffees</h1>
 
-<p>This is another side of the pack! Player gameObject uses <strong>StackManager</strong> instead of CrowdManager this time. StackManager acts very similar to the CrowdManager but instead of randomly pulling objects to the center, StackManager aligns them. There are tons of similar games which uses this mechanic.</p>
+<div class="NOTE">
+<h5>Note</h5>
 <p>You can find the example in <code>Demos/_Games/StackOfCoffees/SoC_Gameplay.scene</code>.</p>
+</div>
+<p>This is another side of the pack! Player gameObject uses <strong>StackManager</strong> instead of CrowdManager this time. StackManager acts very similar to the CrowdManager but instead of randomly pulling objects to the center, StackManager aligns them. There are tons of similar games which uses this mechanic.</p>
 <p>Other than StackManager, it uses good old TransformationModifier. In other examples, PopulatedEntities spawned as a child of the Player gameObject, but this time we don't want that because StackManager will align the gameObject by manipulating their Transforms, so they should be unparented.</p>
 <div class="IMPORTANT">
 <h5>Important</h5>

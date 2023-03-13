@@ -779,7 +779,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/evolution-of-cars.html",
-          "hash": "FmYqrlLoUIqp6fy5k0lpk/0tiVsLcx0vTh26KVXFaYo="
+          "hash": "coKP6h8YzsnaiDv6bgPDoAQDLzXliACLMDR6zQacKTE="
         }
       },
       "version": ""
@@ -790,7 +790,18 @@
       "output": {
         ".html": {
           "relative_path": "docs/evolution-of-crowds.html",
-          "hash": "aVL3KjJQDKSCzc08pDrcWzf3H1VAEkxRlIhWQFpVxJc="
+          "hash": "Jb1ZQwDsSQG3A/403p7oP83OzUypOEwWR5Oj2wuDNkI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html",
+          "hash": "9XhKUrSwgMePLmU2AdkosFthnR4ygB4XyykiJTcltgs="
         }
       },
       "version": ""
@@ -801,7 +812,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/master-of-counts.html",
-          "hash": "RfJyhQKDy6+d382SkkUolUwJ0AJSjxYyHxVwV239R6o="
+          "hash": "hPkMFFrcjBhtXYzAmlYZ1gOQxTDhCvHV1+SE6YsixXg="
         }
       },
       "version": ""
@@ -812,7 +823,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/modifying-populated-entities.html",
-          "hash": "BZ81b+WpYLtHcD1oJ5/Sr2o66gtCgOHz9nNl4uuX/Kc="
+          "hash": "zvt0zMO+HNODqUrTPfbe01kUZzNAUitLReRVaxJi/pE="
         }
       },
       "version": ""
@@ -823,7 +834,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/run-of-destiny.html",
-          "hash": "mFtHBbr3fcnIR1HR3WNZrlaN3wj/QV4mYq6QDQWfsPU="
+          "hash": "DdjJN8Du1fu38AJT2f3jgQ/7OTLq7WisKEH6CuNGmf8="
         }
       },
       "version": ""
@@ -834,7 +845,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/stack-of-coffees.html",
-          "hash": "c/IctxbSX3FlP41cFN+NQ+i0YAEm+vRCnvfr4NsECSU="
+          "hash": "M/0XRrtWg6ywMrhH+/oJJOE/eXkoK5jaDApR+jvYwS0="
         }
       },
       "version": ""
@@ -845,7 +856,17 @@
       "output": {
         ".html": {
           "relative_path": "docs/toc.html",
-          "hash": "hlX9zP79hnZSHM1mZshM0UGEXjEx1G2aUXBQX/kGI2o="
+          "hash": "vsdGtKcMnxZrYHu6v7sPgduuafI4tyvS+PfzC09fwck="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/runner-kit-cover.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/runner-kit-cover.png"
         }
       },
       "version": ""
@@ -856,7 +877,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "WFd6cECk2eQBH4y8t4kK+U2jjzVNgHqrMHs4tVLw8WE="
+          "hash": "dLEmWMXihNrd1Pd1etv3onehVcSZWpOqvFd9cHGSZ0E="
         }
       },
       "version": ""
