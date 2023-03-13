@@ -464,16 +464,6 @@ public class PopulatedEntity : MonoBehaviour</code></pre>
   </div>
 
 
-  <a id="HyperCasualRunner_PopulatedEntity_PopulatedEntity_DisableFallingOff_" data-uid="HyperCasualRunner.PopulatedEntity.PopulatedEntity.DisableFallingOff*"></a>
-  <h4 id="HyperCasualRunner_PopulatedEntity_PopulatedEntity_DisableFallingOff" data-uid="HyperCasualRunner.PopulatedEntity.PopulatedEntity.DisableFallingOff">DisableFallingOff()</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="declaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void DisableFallingOff()</code></pre>
-  </div>
-
-
   <a id="HyperCasualRunner_PopulatedEntity_PopulatedEntity_DisablePhysicsInteraction_" data-uid="HyperCasualRunner.PopulatedEntity.PopulatedEntity.DisablePhysicsInteraction*"></a>
   <h4 id="HyperCasualRunner_PopulatedEntity_PopulatedEntity_DisablePhysicsInteraction" data-uid="HyperCasualRunner.PopulatedEntity.PopulatedEntity.DisablePhysicsInteraction">DisablePhysicsInteraction()</h4>
   <div class="markdown level1 summary"></div>
@@ -486,21 +476,12 @@ public class PopulatedEntity : MonoBehaviour</code></pre>
 
   <a id="HyperCasualRunner_PopulatedEntity_PopulatedEntity_Disappear_" data-uid="HyperCasualRunner.PopulatedEntity.PopulatedEntity.Disappear*"></a>
   <h4 id="HyperCasualRunner_PopulatedEntity_PopulatedEntity_Disappear" data-uid="HyperCasualRunner.PopulatedEntity.PopulatedEntity.Disappear">Disappear()</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Makes this disappear smoothly.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public void Disappear()</code></pre>
-  </div>
-
-
-  <a id="HyperCasualRunner_PopulatedEntity_PopulatedEntity_EnableFallingOff_" data-uid="HyperCasualRunner.PopulatedEntity.PopulatedEntity.EnableFallingOff*"></a>
-  <h4 id="HyperCasualRunner_PopulatedEntity_PopulatedEntity_EnableFallingOff" data-uid="HyperCasualRunner.PopulatedEntity.PopulatedEntity.EnableFallingOff">EnableFallingOff()</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="declaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void EnableFallingOff()</code></pre>
   </div>
 
 
@@ -543,7 +524,8 @@ public class PopulatedEntity : MonoBehaviour</code></pre>
 
   <a id="HyperCasualRunner_PopulatedEntity_PopulatedEntity_Jump_" data-uid="HyperCasualRunner.PopulatedEntity.PopulatedEntity.Jump*"></a>
   <h4 id="HyperCasualRunner_PopulatedEntity_PopulatedEntity_Jump_System_Single_System_Single_" data-uid="HyperCasualRunner.PopulatedEntity.PopulatedEntity.Jump(System.Single,System.Single)">Jump(float, float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>It's useful if you want to create jumping effect.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -575,7 +557,8 @@ public class PopulatedEntity : MonoBehaviour</code></pre>
 
   <a id="HyperCasualRunner_PopulatedEntity_PopulatedEntity_Move_" data-uid="HyperCasualRunner.PopulatedEntity.PopulatedEntity.Move*"></a>
   <h4 id="HyperCasualRunner_PopulatedEntity_PopulatedEntity_Move_UnityEngine_Transform_System_Single_System_Boolean_" data-uid="HyperCasualRunner.PopulatedEntity.PopulatedEntity.Move(UnityEngine.Transform,System.Single,System.Boolean)">Move(Transform, float, bool)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Moves this to the target point. It's useful in crowd battling games.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -594,17 +577,20 @@ public class PopulatedEntity : MonoBehaviour</code></pre>
       <tr>
         <td><span class="xref">UnityEngine.Transform</span></td>
         <td><span class="parametername">target</span></td>
-        <td></td>
+        <td><p>Target point to reach.</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">float</span></td>
         <td><span class="parametername">moveSpeed</span></td>
-        <td></td>
+        <td><p>Move speed to use for reaching that point.</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">bool</span></td>
         <td><span class="parametername">shouldRotate</span></td>
-        <td></td>
+        <td><p>Whether this should rotate when moving to target point.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -622,7 +608,8 @@ public class PopulatedEntity : MonoBehaviour</code></pre>
 
   <a id="HyperCasualRunner_PopulatedEntity_PopulatedEntity_TakeHit_" data-uid="HyperCasualRunner.PopulatedEntity.PopulatedEntity.TakeHit*"></a>
   <h4 id="HyperCasualRunner_PopulatedEntity_PopulatedEntity_TakeHit" data-uid="HyperCasualRunner.PopulatedEntity.PopulatedEntity.TakeHit">TakeHit()</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>It informs the PopulationManagerBase and if it's stack based manager, it throws collectable populated entities. If it's crowd based, then it disappears.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">

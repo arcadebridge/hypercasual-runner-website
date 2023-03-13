@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.BattleArea.html",
-          "hash": "N4Eq4Zo8dgEzVoDoFUW2A2C/vKVyKsDLB+vjpMdQckc="
+          "hash": "vlfe+lyAWZba7iqwAZfC0tZTOT4NBBmq/EjCmBwKPLE="
         }
       },
       "version": ""
@@ -20,7 +20,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.BattleAreaTrigger.html",
-          "hash": "Y8XeoBaHL38vy95FXRgZsqQ6rH1e5mt24Pei6cFUl+U="
+          "hash": "PSbZaVrOCYgP0N3mdRUDp04Gj3M6RcK7aBEtu7+cSh4="
         }
       },
       "version": ""
@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.BlinkFeedback.html",
-          "hash": "K+cmJCE9iBrga7marceQNoUkNCFxljeJNE2gpoNJXCU="
+          "hash": "MR8QKeHOnYNfNVCesRCpaBllT+SUOakzEyD/JQIWDow="
         }
       },
       "version": ""
@@ -53,7 +53,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Collectable.html",
-          "hash": "I3m6MQPpo1ZKtLWavsifVdIGkPm47/8n64iU7B2U+ck="
+          "hash": "bE4mj9NC740M9aat/Xj4CwHHVvukVEFMvPjphRQP+Aw="
         }
       },
       "version": ""
@@ -86,7 +86,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.CollectableEffects.CollectablePopulationEffect.html",
-          "hash": "zJ3ReNjoAOdAg3t/X4F+Dpp5p+p3p5Kj/52FazfJpq4="
+          "hash": "R/CWJKulCQ9wcumpT98Sj36W5fiVKGaK9rwoGlJMpM8="
         }
       },
       "version": ""
@@ -97,7 +97,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.CollectableEffects.PopulationEffect.html",
-          "hash": "GzFa7lHLm3nCmHdKQQ/G93aNPQm2ck/tCYMQu9Kg/p0="
+          "hash": "qZhyhtAYANCUpu/zNPUmj/TflxpZN1XUWLvxK/AKhPg="
         }
       },
       "version": ""
@@ -108,7 +108,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.CollectableEffects.TransformationEffect.html",
-          "hash": "Wrupk5YTET5xSouNktiCsuhsLcDP/vGdChf4riY+3fQ="
+          "hash": "roNmaORHwqxWRDsvOfkRpzJDeUHcfdFdxEXwGUBq5qU="
         }
       },
       "version": ""
@@ -119,7 +119,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.CollectableEffects.html",
-          "hash": "IqdIBRDpFvGcahpbb5ILmCY/nWFlKyE9zI0ex8JyW3o="
+          "hash": "D1O/sJgyP6YVdfZBmk22jb+hksTNZ6yqHJJHfRqDeo4="
         }
       },
       "version": ""
@@ -130,7 +130,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.DOTweenInitializer.html",
-          "hash": "eSFQxit/MVS9fmazCbz0BimlPFxMgG6IAsV2sKblnGI="
+          "hash": "sxX0YfqzDnzd799Py96U7HAOogEhJfpv61Ey5ROIFIk="
         }
       },
       "version": ""
@@ -152,7 +152,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.FrameRateSetter.html",
-          "hash": "8qKGdUkaNaHKUgCaXYLQNKoJICfyQ2s6DwomBqIgET8="
+          "hash": "6va9/6/VrCkJdZBaSYlG9u5VpKcTxoUIZqqWXTuaXNU="
         }
       },
       "version": ""
@@ -163,7 +163,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.GenericModifiers.AnimationModifier.html",
-          "hash": "x39vco42txMPf1/h4EjZJt7ZOYmGfO2Uuvcv/HG2d/A="
+          "hash": "4nG3ljAQHEmC5l1TBySRlyDZp4BhT7jMevVYzrXxXVM="
         }
       },
       "version": ""
@@ -174,7 +174,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.GenericModifiers.AnimatorModifier.html",
-          "hash": "0BUxo0vrjSWgTPIO3zmeogZO+AGA4eKZ/+YvWZiAlNc="
+          "hash": "yu1kYPAQ+UZ0mgKJhCl3gbWNFSIc17rIXBFfUn7CnXI="
         }
       },
       "version": ""
@@ -185,7 +185,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.GenericModifiers.GenericModifier-1.html",
-          "hash": "0O3liF26u5krRCbkyDfI69YreGkjUtEBESdoXCvLwMU="
+          "hash": "IXdKUYNb19hKIBYFk/uxRd6Xm7LpLmof9Tblegl01ZQ="
         }
       },
       "version": ""
@@ -196,7 +196,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.GenericModifiers.IntervalTriggerModifier.html",
-          "hash": "IvyQGWB2UFdhaX5HYppb3LmBvOLhEaLd4yOYiG5dQfo="
+          "hash": "cLkoxbvMTHmtfXVSOD4/SguR/8FjI2oOAwJu0Apzicw="
         }
       },
       "version": ""
@@ -207,7 +207,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.GenericModifiers.ProjectileShooterModifier.html",
-          "hash": "SMAzVTlEFAbic7Q2qlLFESqizzKYzkiRgsryrMaXV4A="
+          "hash": "otJxF1aGNuHDGaBCBlJTrPiWVbx0/LxluZg3yWFTm7k="
         }
       },
       "version": ""
@@ -218,7 +218,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.GenericModifiers.TransformationModifier.html",
-          "hash": "BKshWmbtD1JvU05u0GLGQV1YlTAs3/ys7CNGaixuIgE="
+          "hash": "xp2XdeYuln99BARwbEj6BXSEIGQvgfy0oC/l9p+VhZ4="
         }
       },
       "version": ""
@@ -229,7 +229,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.GenericModifiers.html",
-          "hash": "3WVb72TwvZpm9xudSyhPwDWnYb1YtnS7zW/kjSTsyqs="
+          "hash": "VhyBcxG8g2gPyACosze7opysfKkvIiIbmJXXz3s4tg4="
         }
       },
       "version": ""
@@ -251,7 +251,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Interfaces.IInitializable.html",
-          "hash": "gE0LiFXuqjENi0439mK1TUs5BMfdY32LkjKsUOb5ukg="
+          "hash": "1+MA6DuX/o+iD5FI9P04zlgndOfUi7nsKWjiFWopWtg="
         }
       },
       "version": ""
@@ -262,7 +262,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Interfaces.IInteractor.html",
-          "hash": "ImBcSYvUgDy1T4+YX3F28Mtx7Jx7jA0ToUpm9rhCFnQ="
+          "hash": "JqCQZdp820uWmr2jdjOHqxA55hMEV6huKKsTZ2GavMM="
         }
       },
       "version": ""
@@ -295,7 +295,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Interfaces.html",
-          "hash": "HLCp1zZ5vJsKk+RfRCdG82wGVsbScw/lPNQu/AVpimY="
+          "hash": "1hOYvZrDWwVxu5q7itXDLrnFG5HsfYxhw0gA82uWi5A="
         }
       },
       "version": ""
@@ -317,7 +317,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Locomotion.CrowdMovementConstrainer.html",
-          "hash": "uyzysGGZAZoJh7LAX6nKuHAPmBadXE3f9gOAJZvZoEs="
+          "hash": "iTOE4GXnyFqvBwjOygJUve7HH+uo9KVDQgVZQu8Jciw="
         }
       },
       "version": ""
@@ -328,7 +328,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Locomotion.MoveSpeedDefinition.html",
-          "hash": "cGzy+31hvFIzOn5EFDvRInrXeR48lNpc1tTR3QKzA2A="
+          "hash": "B6b6lfudy7em1nMXS6Szni8csxgL1iQktHD+zk3LdnM="
         }
       },
       "version": ""
@@ -339,7 +339,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Locomotion.MovementConstrainerBase.html",
-          "hash": "wis1+9UFgQpTfP5SmKNYazTd69BtHB+safBJWFtkZ4U="
+          "hash": "o0YWM2uahjQon+IcVFGeVAXh32iSQGDGgm4+Ua0OBH0="
         }
       },
       "version": ""
@@ -350,7 +350,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Locomotion.PlainMovementConstrainer.html",
-          "hash": "gKUGQjSqSUQJbIBKojo52aOOVrf+HN7MkzBsboOsXCY="
+          "hash": "kPo/ZkHAehS/6AcicUsyQqLXUWd52pUc95TFTuvFvjY="
         }
       },
       "version": ""
@@ -361,7 +361,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Locomotion.RunnerMover.html",
-          "hash": "4WF/R0rZ4+xSiviW2Pd4Zgok02r4Qr+N4ggXyed7nAg="
+          "hash": "Pbhjir/rWtv2mf4Agw8mRyAfOZ+N386b/U0yhQX6erk="
         }
       },
       "version": ""
@@ -372,7 +372,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Locomotion.html",
-          "hash": "i0vMSzYLrHV/F/UTSsyEU4lfOx6ZAl/2BJg6qul625A="
+          "hash": "c7c/2F8wZ+Q6fHkzUWVVS7Dl1WLcolCnBJvPBfPqlJk="
         }
       },
       "version": ""
@@ -383,7 +383,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Modifiables.AnimationModifiable.html",
-          "hash": "we6qD3pR5TbIp/sJ0/JA1b9iXkyg4zNb2KLNljov6Hs="
+          "hash": "XddIKN2zLl2h3W2Ly3ivabeeITvi8qkHnvi4jkWsR04="
         }
       },
       "version": ""
@@ -416,7 +416,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Modifiables.ProjectileShooterModifiable.html",
-          "hash": "ocnnppLBFFGZVJOleb/A6qmrDVEKCcbCR6gvpFMul94="
+          "hash": "Ve4kabk3xuqOoWLRFot6OK4UCDcP12mffTVdm+QYzA4="
         }
       },
       "version": ""
@@ -438,7 +438,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Modifiables.html",
-          "hash": "+oCXEzd0M3TNoeFCzKnNuXr6p+sWgDiKK4lYPfV9Wak="
+          "hash": "JI8jdjuxmGlwlBmMY+REAM+qIt/O2c+w9TEYWuuoI2Q="
         }
       },
       "version": ""
@@ -493,7 +493,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.OrganizeTrigger.html",
-          "hash": "J0ktYZ9Fu8wz1xFssqxCMKWJdSDTf6mnuZ2fLRy67BY="
+          "hash": "8hiip3/VS9GRFbyxi7U+3eDOcLd44R573ONLEhewzyg="
         }
       },
       "version": ""
@@ -504,7 +504,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Player.html",
-          "hash": "91kKKYFrm8wcK/1bXNFgQ7MoJmoTV0+kJ74bENJQWVk="
+          "hash": "cuoIY+JA/hwCt6xlgCXLUK2hwQorIpr/JMYXJZWsxeA="
         }
       },
       "version": ""
@@ -515,7 +515,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.PopulatedEntity.PopulatedEntity.html",
-          "hash": "eCvucqEBfKfqEgG3TUHBwYJXJVIIqoIT0iZrpP0Qgu4="
+          "hash": "Z4eKI7KCsgXslvD0Lw7hDL1p9JJ8aBLe6Z/UwJV0jy4="
         }
       },
       "version": ""
@@ -537,7 +537,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.PopulatedEntity.PopulatedEntityObstacle.html",
-          "hash": "LXZRAZlYSa1WjpNyPtMtDiris/wbqCgMx/fl5YkXwsg="
+          "hash": "TIi9dTsyAFPtsx4ZFnXTFM3UOzBwW4a8SXIjC1ZzPPs="
         }
       },
       "version": ""
@@ -548,7 +548,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.PopulatedEntity.html",
-          "hash": "qFsO9XBvrB/rNfZ/JiYBNSDMsFLNWnBmmEX8LUa04aU="
+          "hash": "LxzPiZCJVr+owkS2LJwlWeCAXAVhmiKDQsYSeSc2BQ4="
         }
       },
       "version": ""
@@ -559,7 +559,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.PopulationManagers.CrowdManager.html",
-          "hash": "Wwza8nkNgc9UAvcQD4pq9josCxUp9FL9pIwsLI5OD+Y="
+          "hash": "qjx4jertWxFpKwql4pO+UhSMtTcVQH1OD0Fll5TdGpk="
         }
       },
       "version": ""
@@ -581,7 +581,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.PopulationManagers.StackManager.html",
-          "hash": "Sa+qu5SSE/X3Kv7x+VeQq/ETOyADYobx20t0ocnrtUs="
+          "hash": "lHvfvb+9CElJnvGsMXr7C4taBDCfthCoYPD/W3HSK+M="
         }
       },
       "version": ""
@@ -592,7 +592,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.PopulationManagers.html",
-          "hash": "yqE1RK/20XSzk2fVNezM5Rn/ZtPgVMw46EJ5zVD1Rp8="
+          "hash": "SU9NSoCDJM7hJtXPrLc1JRUqTtRLc9Sst7QKmR4DK1Y="
         }
       },
       "version": ""
@@ -603,7 +603,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Projectile.html",
-          "hash": "Q8/8MEMQvZCQ3em3prfZL6LXpbEnIo1PHKCeSULTuCA="
+          "hash": "7K+aDV6JTMPCXjDBoxO9BjA5uDIbRUu7bGvkpL4MfBg="
         }
       },
       "version": ""
@@ -614,7 +614,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.ProjectileShooter.html",
-          "hash": "VTkCeh955g+KTn5gXcEhL404wAXyE2jvbpIEjWqxWGY="
+          "hash": "9zm1itnL6+3VkKb8rG9S95491noJfJUSJGyKsllptqQ="
         }
       },
       "version": ""
@@ -625,7 +625,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.ScriptableObjects.InputChannelSO.html",
-          "hash": "k+gfuttLU94pJ0c7/xIhbJLJ/3a28RiCFLPmtLUnnso="
+          "hash": "0+Gq3H/dIb6mJkTTgiBOg9U20g5TlFc3B/7QU5tiw0E="
         }
       },
       "version": ""
@@ -636,7 +636,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.ScriptableObjects.IntThreshold.html",
-          "hash": "C1iWlLnWS6v5pdN5L2Pf4OLJd+l1wcd6bTmtK0b5qaA="
+          "hash": "8+4HWw/HdSh12n2Wrf8kYyHZQiIMI3bt8+A5qtoukfg="
         }
       },
       "version": ""
@@ -647,18 +647,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.ScriptableObjects.ProjectilePool.html",
-          "hash": "jgNOr3euluuU37ITDBXwYzmwsylM3D/1fBKBtiBILvY="
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/HyperCasualRunner.ScriptableObjects.RuntimeIntVariable.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/HyperCasualRunner.ScriptableObjects.RuntimeIntVariable.html",
-          "hash": "TtOIp/2SNucrphBPurAMxk6mkIKHjIDOKeJHBRRPNY4="
+          "hash": "95Nr1PqQM6WfAzuk+NrPFU63IPt4qyB1i2CtTU3E12Y="
         }
       },
       "version": ""
@@ -669,7 +658,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.ScriptableObjects.html",
-          "hash": "Ys5lCY1NMcaQ5BhLwWTWLBIfkjoaajPDhNvjB0dnUaE="
+          "hash": "qiv3hI9DqR4lL60cxpo2uyn35HPCRSMxOZclL8Q4SNY="
         }
       },
       "version": ""
@@ -691,7 +680,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Tweening.TweenMover.html",
-          "hash": "f8RylqabYb3yPpWPub+pC56vN6BnBjqe03/XEFDRYwY="
+          "hash": "q+/Rrj+mGJEQ4u+cm9Csfc99QUa7py4t/6Dj9jOdROc="
         }
       },
       "version": ""
@@ -713,7 +702,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Tweening.TweeningHelper.html",
-          "hash": "ZXgC9dbYddwtFPEiZFxhhIJER0Dz6lfvKgOVduTO5yo="
+          "hash": "s8u0me8rJrHUgYEJLv2VOyMKBLk7Wr9GQFCR1Xe08YY="
         }
       },
       "version": ""
@@ -724,7 +713,7 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.Tweening.html",
-          "hash": "I0dgH9wkr+6lW00pswIoaJ4Wtfhh+o+2SmFQ9O/t9rM="
+          "hash": "43NnyChiIR99EM7CRo5bcY0EXsT+6/71kuQ3Rn23BUE="
         }
       },
       "version": ""
@@ -746,7 +735,2042 @@
       "output": {
         ".html": {
           "relative_path": "api/HyperCasualRunner.html",
-          "hash": "e60neSSrcmKc7TpT4gtLqLhrdqFfNCdq6VlXf9N+PcQ="
+          "hash": "ZnplhRdjkPaex4njUiCpqpDxgaxP3a8VK3ne3/r74Kc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.AllowNestingAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.AllowNestingAttribute.html",
+          "hash": "prQikzxxy/rn/9nuy7zYvR28T7pNNRU735vaFlkPw/0="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.AnimatorParamAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.AnimatorParamAttribute.html",
+          "hash": "KG5CtiTXHIM+5po5si3gabjU+FhVXdSOKkrpRWNJC0I="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.BoxGroupAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.BoxGroupAttribute.html",
+          "hash": "CmhWEUDP+Wz2Nd/x5C1jVczrDk46YDDk5cETanAHg/Y="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.ButtonAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.ButtonAttribute.html",
+          "hash": "SnkYg5lrrTjgUCDn/KZAwXPho5dpJVM2ebnVeYkjv0c="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.CurveRangeAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.CurveRangeAttribute.html",
+          "hash": "/kFX8Ol/DmiWJQjeIAMonKOZz0Y8UNNQURA9Txi46bI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.DisableIfAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.DisableIfAttribute.html",
+          "hash": "8cDimF/jpMPrywMZNI3G+ydd7bTKTDwDIZ9AYJze0WM="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.DrawerAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.DrawerAttribute.html",
+          "hash": "Zp/6tj30Yv2ENLpq0pw06NxofsKEc6KYGa0ECQaw940="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.DropdownAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.DropdownAttribute.html",
+          "hash": "sPXH2O+aldjtJUrUtZX0umhGV0HpwPUv472cM1fKaZw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.DropdownList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.DropdownList-1.html",
+          "hash": "V2ifZGJUbJ+r7VcNqb/hAvQCPBxz31xmytiFps5NosQ="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.EButtonEnableMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.EButtonEnableMode.html",
+          "hash": "frR0PPxQPQlwdX9LLyTT1nk9BPONp/k7oNX87CvE8/4="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.EColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.EColor.html",
+          "hash": "GXAi7VYFyRf4vihDjJEmX3Geecgt1T1+TB+ein+HYBY="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.EColorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.EColorExtensions.html",
+          "hash": "J8kwHd//erDz788zEtmnr35FUHapshkirV71exfNSI0="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.EConditionOperator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.EConditionOperator.html",
+          "hash": "Q9GuGuWVL9c37Jpq7lH8gCq8yE1IR6ulw6UjPfSEcDk="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.EInfoBoxType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.EInfoBoxType.html",
+          "hash": "AAyxRCC38YSLGKsMG0LEl6+DRlMy130hOSSxdJqYf7M="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.AllowNestingPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.AllowNestingPropertyDrawer.html",
+          "hash": "ZDXnt1r88pC3KGxNKcGLIRnlUDRGpe66e0AGAN5aY6Y="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.AnimatorParamPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.AnimatorParamPropertyDrawer.html",
+          "hash": "X6beZdHx3i3drFoKUmRASqnnkZWf9eVyAbutemDIMIA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.ButtonUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.ButtonUtility.html",
+          "hash": "cTAszhurbjfjk40MtS6dbdp6ELyxUhKgE/xZhI/E9qg="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.CurveRangePropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.CurveRangePropertyDrawer.html",
+          "hash": "AJU4clfw/qEUuWwvU9o/u/361D7uYBGgLwPJLtgCbEc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.DropdownPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.DropdownPropertyDrawer.html",
+          "hash": "GazCS+N9UhX3puXEavvMrR5MqplTtQLIZeUer0qTD4o="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.EnumFlagsPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.EnumFlagsPropertyDrawer.html",
+          "hash": "74Jt8mlP7asSdMr6v23J0YcPfHO82sj/oAhIgDYe6qA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.ExpandablePropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.ExpandablePropertyDrawer.html",
+          "hash": "mUysoMUy1RjuZbgx/Lp3PBbGi+qW9XgqmD84aQjLpcc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.HorizontalLineDecoratorDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.HorizontalLineDecoratorDrawer.html",
+          "hash": "3cxNpo0Sj/QDV0jcQNxNLFn0C7YedGovgDSuwKQDh28="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.InfoBoxDecoratorDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.InfoBoxDecoratorDrawer.html",
+          "hash": "R2oIEIvXJwBkG5Vq9NiQae8u9FLVC9XgpnIFz/BVr4w="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.InputAxisPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.InputAxisPropertyDrawer.html",
+          "hash": "a+siM4j9jRd9RgjPAxUVc6vB26JH23roYO2c58FP7Ro="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.LayerPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.LayerPropertyDrawer.html",
+          "hash": "SDKOpULMEYxBSlr/ySQrTY2Sq9c8ZX+MmZwS4BfkNG0="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.MaxValuePropertyValidator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.MaxValuePropertyValidator.html",
+          "hash": "ds+QozIZ3/H9nozEfWMxhGdWWnS+JQcH06TRG/pXVcU="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.MinMaxSliderPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.MinMaxSliderPropertyDrawer.html",
+          "hash": "5+vIbsh0dlSOVaezckPgwPFaBPiIwqjOgap4nvDCObs="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.MinValuePropertyValidator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.MinValuePropertyValidator.html",
+          "hash": "6iMieX2fVAG9FqSCAgTaqhTP7PmUyFWtbhvpZb1x5iE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.NaughtyEditorGUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.NaughtyEditorGUI.html",
+          "hash": "T1E+EIoLgvLEUrtIHcshjXvvhOJAKCWhucCbeD9Gexw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.NaughtyInspector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.NaughtyInspector.html",
+          "hash": "jNVQG6ch3hU3xCWjo29nT+lIX2NIFMr5H/taxtNAT2M="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.ProgressBarPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.ProgressBarPropertyDrawer.html",
+          "hash": "ktRdor8QWVO/sLryAXAtJLgpkMo+POcBDi6vnxpHvZU="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.PropertyDrawerBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.PropertyDrawerBase.html",
+          "hash": "QbF1UsG7SlbDtXhvrFNKqG4NKFtN2nTIsM3Z8gTMS4s="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.PropertyUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.PropertyUtility.html",
+          "hash": "9Sj4yMiZH4T9D6Gh1cvoLBTd/T/ncL17HGtl1kDGgkc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.PropertyValidatorBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.PropertyValidatorBase.html",
+          "hash": "to8iA15p37AybMQNru4AKyM5snL75VFxn0SmL8urQhE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.ReflectionUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.ReflectionUtility.html",
+          "hash": "puvLtsn3lNRgwiRLhPtLRPRYDBvrTt88ZfTMPq9lX4s="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.ReorderableListPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.ReorderableListPropertyDrawer.html",
+          "hash": "LM2ELWPi+fEJ5OgVCWuUtrSfFRhZ1rZZHNsA43T3sEk="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.RequiredPropertyValidator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.RequiredPropertyValidator.html",
+          "hash": "DBQUcwa7e8lmpH95uxQbvYEKCrB25uelA7QTlTXyCcE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.ResizableTextAreaPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.ResizableTextAreaPropertyDrawer.html",
+          "hash": "RBahlOP5KRYsV7J22SFp0W2cJk2irCAXXolVvDNwwDE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.ScenePropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.ScenePropertyDrawer.html",
+          "hash": "6WVo6E5qQgRjqC55pjabvRfTQmV1noUmGFKs+n/qnSA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.ShowAssetPreviewPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.ShowAssetPreviewPropertyDrawer.html",
+          "hash": "QAWsBpk/8kA7s7n9KuIWbx1Dce6fEK9tbZ3iiGEjv44="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.SortingLayerPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.SortingLayerPropertyDrawer.html",
+          "hash": "Y5I/b14twta6cNpXd0vyitI3SYtlx2SOI7QDvRvHmhs="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.SpecialCaseDrawerAttributeExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.SpecialCaseDrawerAttributeExtensions.html",
+          "hash": "MD6UjCdYUj5Z+hTpAYVtU4CE9cAR26Ek0aGJIvpx2qM="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.SpecialCasePropertyDrawerBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.SpecialCasePropertyDrawerBase.html",
+          "hash": "TjQcXrlPzI2NvXEzQTQmvoGr7oHmne1qOI1JmGgimr8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.TagPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.TagPropertyDrawer.html",
+          "hash": "DgxNKt5ZPTs2zh2EqcyzJ/ggn839YFZLbhgE3nADhBI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.ValidateInputPropertyValidator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.ValidateInputPropertyValidator.html",
+          "hash": "+iqvlhQX+cuMCxhAAlC4sfVSX+/EXiQ9cjzt4G4fSxY="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.ValidatorAttributeExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.ValidatorAttributeExtensions.html",
+          "hash": "/TQ4GMwMoBneZbvbO+ZbjtWR0A9WyhY67zBu+aL8PaM="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Editor.html",
+          "hash": "PzE4ZDbPcvdcTJtrskW82MpEbM1HHs+swyW1GUijnx8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.EnableIfAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.EnableIfAttribute.html",
+          "hash": "LVFnPBCQL0169LjDMvnfviFjbF0CpLq0D+xIb2lfnGs="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.EnableIfAttributeBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.EnableIfAttributeBase.html",
+          "hash": "YQma5ss4T/TxNFF+vq4cBzaGH6dMF0XbsbTpCzqme0w="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.EnumFlagsAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.EnumFlagsAttribute.html",
+          "hash": "bETF1Ex5nJFb5iXMsJxXZPCEbls1P2SWF/biMyWuP44="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.ExpandableAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.ExpandableAttribute.html",
+          "hash": "B3PjbFVlB2eW8+xRW+GSvQvRrW0q6CenwXh9zWc1W/E="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.FoldoutAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.FoldoutAttribute.html",
+          "hash": "4c+wjzPjAlTox198vUWFf5/Ze8WnOhB6fWrrgOGy+Zc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.HideIfAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.HideIfAttribute.html",
+          "hash": "SfbdX+9gUdC6BgjI78jlzFVge92xCJLDMpWPmgPdWHE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.HorizontalLineAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.HorizontalLineAttribute.html",
+          "hash": "hCaOrCflnDDZMj+nWvI2qW4MWVDwMSGdxh9762Yru2o="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.IDropdownList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.IDropdownList.html",
+          "hash": "EwaOQNFTNQfVkWBvdfGJ5ai/EjICGEyoIu6twKInOTQ="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.IGroupAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.IGroupAttribute.html",
+          "hash": "XFy4nmLMCsxeNIBFiObPhO6MyEROL9xKpl1KgOZxIg0="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.INaughtyAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.INaughtyAttribute.html",
+          "hash": "D4f9vqYe0bJQpgo7pDQudBBJn00kqxPuIw4+DuGglsM="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.InfoBoxAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.InfoBoxAttribute.html",
+          "hash": "DUiqflCrTFhL6fhb03EobXQFO7XBd7MXwViHtLrGznM="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.InputAxisAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.InputAxisAttribute.html",
+          "hash": "0Zl/2VlxlXAI+taqtC5N/UqiDl+mYG2dTLL2l+Kj2ok="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.LabelAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.LabelAttribute.html",
+          "hash": "cxgFwv2yT3VqZ10uZ6DnJQ77NJokiswUg+zu3VDALU4="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.LayerAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.LayerAttribute.html",
+          "hash": "3ZFgBVXvVBZsp03GRiTwa81ljQw2RMeB3n8ywMDfH6E="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.MaxValueAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.MaxValueAttribute.html",
+          "hash": "s3Bllt0urp2gvuI16Pv/UbaJR5mwY0liRZUrsB+T1A0="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.MetaAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.MetaAttribute.html",
+          "hash": "DLcin+sehIwFHO2lKNGZi36IEABFMZpTIinhjl6EKwY="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.MinMaxSliderAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.MinMaxSliderAttribute.html",
+          "hash": "szH9wYfVqNkcSYrlN6O67AFsNUOV1VCSaIOgDWW42D8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.MinValueAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.MinValueAttribute.html",
+          "hash": "FA9B1iZkloVGrkaQnoer2cwWMNNRIqvzInhv06wOcoo="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.OnValueChangedAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.OnValueChangedAttribute.html",
+          "hash": "MxpC0HQvC4PLo7LYLYpQyP6tC/Hhntuz5EhUyaZ7ST8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.ProgressBarAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.ProgressBarAttribute.html",
+          "hash": "NGWvbHKVQGNU9bIFrmH/kxqbbQ+9lst3+B+7j9dxACg="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.ReadOnlyAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.ReadOnlyAttribute.html",
+          "hash": "A/pp8ntlfcVSch+IiVDBkbOtbLXk1qWQZgjN6ZzQFSE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.ReorderableListAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.ReorderableListAttribute.html",
+          "hash": "8GhDt4Ta3x8ZcaNz7Hkj2u5Q/rC/jgrfKeOdIjcn1cA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.RequiredAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.RequiredAttribute.html",
+          "hash": "ZGp/A//bubI7ScvGWygRqXnjfHHVWeUIbHEuK3wYl4I="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.ResizableTextAreaAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.ResizableTextAreaAttribute.html",
+          "hash": "iUWXX4o/gGFBnJT+tpxKIMksKE36Om/he4mhYcG+4wM="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.SceneAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.SceneAttribute.html",
+          "hash": "Q2pN9e1JO/CndHir66q2e6YX2Ml3Wd8lyZrUHHrGhIs="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.ShowAssetPreviewAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.ShowAssetPreviewAttribute.html",
+          "hash": "mUkSAtZf1H7O9OwUSSPHkLqaHulmAA//EyqtmXCwdtA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.ShowIfAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.ShowIfAttribute.html",
+          "hash": "aKFzJyE/cqEThoMwN/fLs5sqI316247WVylBRRsyCjI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.ShowIfAttributeBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.ShowIfAttributeBase.html",
+          "hash": "oUmEmw/n5QDlaNLwGevxmnZBRNP04V2t9LCsTFhthOM="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.ShowNativePropertyAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.ShowNativePropertyAttribute.html",
+          "hash": "rajD0VpZCNP/V8Ux2Rn5/73Vr8LLQFqmTq8AQ8ug3F8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.ShowNonSerializedFieldAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.ShowNonSerializedFieldAttribute.html",
+          "hash": "94vlpwOGPalcySAILj8UgUWxZi6rZ1ve+mdFLzNN1Ks="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.SortingLayerAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.SortingLayerAttribute.html",
+          "hash": "hYobUGWxPp82WYoRYH4Lk/18G0Lj0RrJm/+SRElKmRM="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.SpecialCaseDrawerAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.SpecialCaseDrawerAttribute.html",
+          "hash": "14z9RDsUJT5Z81Z+PNog3oJNGX/urVL0+NLRXAuJRes="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.TagAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.TagAttribute.html",
+          "hash": "yndIcQnoBLmGu0HaHrAwUGjKKIon+NZdyj4rVGxkWp0="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.AnimatorParamNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.AnimatorParamNest1.html",
+          "hash": "ODCigEBhLenXQmwCiV9NmfTkIiV+3PeiWSKaf9nxAxs="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.AnimatorParamNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.AnimatorParamNest2.html",
+          "hash": "3ws/DLiP3RCyepCoOWwJeo8kJwGoGZcyJdxFp3VauUw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.AnimatorParamTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.AnimatorParamTest.html",
+          "hash": "ta4KzClbidUHXCJEK64VIFTJbJ2sU8NXmmH6Zyehr1I="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.BoxGroupTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.BoxGroupTest.html",
+          "hash": "zIgX5F1DUgM/eCYeznHq4KJoF2Y2sD49oEc12NOR/a4="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ButtonTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ButtonTest.html",
+          "hash": "/5/qy0y1EB2E1rCFZDyx/hXodjceEg0xZOMKqSHXoaQ="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.CurveRangeTest.CurveRangeNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.CurveRangeTest.CurveRangeNest1.html",
+          "hash": "ehmPNl7sAi+6jFegtBv/S36FlbL11XY+PeiLzqoBBV4="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.CurveRangeTest.CurveRangeNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.CurveRangeTest.CurveRangeNest2.html",
+          "hash": "pe1W4ghBbg8YxhEIvDw0fwMnUizEHL9T1GnbO867pjM="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.CurveRangeTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.CurveRangeTest.html",
+          "hash": "fg+9ycuvnjgxlLH0hAshV2d2p1PX7DF9/266r/ZXGhU="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.DisableIfEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.DisableIfEnum.html",
+          "hash": "wpskI2QeKm9u6VDHkA+KX2myQ+j6pGn6+Q8cEO090Sw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.DisableIfEnumFlag.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.DisableIfEnumFlag.html",
+          "hash": "SIaER1s1Rtlekwhysig3aqpHqWSO4X5cAnVaQUt3Y18="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.DisableIfNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.DisableIfNest1.html",
+          "hash": "5fLRA/VJ3Av8jFzY6DXeRuK8eGkSM5oO4wwum4IgZQo="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.DisableIfNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.DisableIfNest2.html",
+          "hash": "+IpNt3oZ0qhEuJZQ/gNGsvCQgd9++FUm7nUp42sHEhQ="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.DisableIfTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.DisableIfTest.html",
+          "hash": "6q/+FbCrFhvRNzxw6aeqqNcCVW/iUjIZ0IbOSSKXzI8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.DropdownNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.DropdownNest1.html",
+          "hash": "EIO+UrVTRhiTWSbbmpsLARhGIgr8AeMxa8Dhi8YovmA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.DropdownNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.DropdownNest2.html",
+          "hash": "EOEwxcKqGLtSK68e/KNnHUBvAdoUgWApVxwXrh+i57A="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.DropdownTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.DropdownTest.html",
+          "hash": "mNhKs/peXkjrJeB+dQs+X+PmPD2QjWgFWLYCUqOXQsE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.EnableIfEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.EnableIfEnum.html",
+          "hash": "uNQUbUr6tPKNDJr3BM4L4njfFxIwFky6P0zRp9+bzV0="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.EnableIfEnumFlag.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.EnableIfEnumFlag.html",
+          "hash": "OvsomcwRVPX60FxBeBWKSgZr6YOBpMnpf4KU4d6TnyI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.EnableIfNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.EnableIfNest1.html",
+          "hash": "9vBCSSKr4cKL2MfWvbJ7QeKGgQSmzfd6ZnxAQkxWBLs="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.EnableIfNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.EnableIfNest2.html",
+          "hash": "6YiqFa1nSD3/TuwB/jEeTFRNCh1BFIrsS+antVOZC+U="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.EnableIfTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.EnableIfTest.html",
+          "hash": "mGSy6FzIgvehTxRd6DAkoRXlY+rNaKJJ+WZ6p6NAhno="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.EnumFlagsNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.EnumFlagsNest1.html",
+          "hash": "DoGvCAGqGSnItNxmIvjrMm1Nhslpmk4/+ej2om6ZXCs="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.EnumFlagsNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.EnumFlagsNest2.html",
+          "hash": "vv5qIoBn1ecxZfttGuAULL4Q7pfp7GjqfI5azTZsXD4="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.EnumFlagsTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.EnumFlagsTest.html",
+          "hash": "61ZqM8Ayc5QvLYICnSzYfIhf/NdXBAODMhpKbC4viD0="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ExpandableScriptableObjectNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ExpandableScriptableObjectNest1.html",
+          "hash": "Mi1PK2Sb4EY5xFms2DaknkgwZXLIM/xsgVNqkVx37ok="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ExpandableScriptableObjectNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ExpandableScriptableObjectNest2.html",
+          "hash": "mIBT2KZhatAtY0geNr+Ozo/zb8Bbqd7GybhrWkIzL/0="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ExpandableTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ExpandableTest.html",
+          "hash": "b5OFRCt57WJ3UlMOBPpTV5Ex7ZnOlBbdNkiDCauPZWU="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.FoldoutTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.FoldoutTest.html",
+          "hash": "PQBzj/0BuyKuBMvQ6hS764EdSioCWZoc7VN2777KRTE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.HideIfEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.HideIfEnum.html",
+          "hash": "rV7IIKmBUOyxWdoJ/IRbFpi4N7Zd3NpWEWJC3Kft9WI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.HideIfEnumFlag.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.HideIfEnumFlag.html",
+          "hash": "XKWV7hFSBjY9rGWzITsLR3NIlGvCuUTNimR4H4e1ltY="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.HideIfNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.HideIfNest1.html",
+          "hash": "ck7Mhi6oXBtPLExVI/CDzUIPdT1Pj+rrqS5FWgYR8gc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.HideIfNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.HideIfNest2.html",
+          "hash": "EKIb8TqZG9igsB7Xtt1Y3DXQTQazngbwFdSqNp/zxIg="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.HideIfTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.HideIfTest.html",
+          "hash": "Ds/lSKxWUJqRBdVHoKaWTDzuTAgwdQXcbnd+GDYJQHI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.HorizontalLineNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.HorizontalLineNest1.html",
+          "hash": "GLXfDSehwVFuzH8i9SKKzY2b4s/M6N3hHtG9wudivF0="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.HorizontalLineNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.HorizontalLineNest2.html",
+          "hash": "5/VcUw7C5QQRohWYM9H5uiG928lRgkSOky+IzHkiUYA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.HorizontalLineTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.HorizontalLineTest.html",
+          "hash": "zlkHooQrCFPXk+NfyN/AQ31IT2xkRpdQbiuZuBXDYXE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.InfoBoxNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.InfoBoxNest1.html",
+          "hash": "17XhmKGdk1L0GTTi2KsRDUAd7zD0F31Evd21b6+AfSI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.InfoBoxNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.InfoBoxNest2.html",
+          "hash": "7+87H1iLotTC9XNfPcpHWRo0+goxVjSYGbX6eYAKJZU="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.InfoBoxTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.InfoBoxTest.html",
+          "hash": "PBdxdgpICeF98D+/9aLkqzUpt5QwNQKpJKDBRPCPfKc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.InputAxisNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.InputAxisNest1.html",
+          "hash": "KMdtZOohnM8SxOBrdO17P8lrCYvjK3njrnNxu0Ie1AU="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.InputAxisNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.InputAxisNest2.html",
+          "hash": "JI/SSmPkjzFEWBbTBKdDjq096p2uEU72v5NX0/tKtgc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.InputAxisTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.InputAxisTest.html",
+          "hash": "NDC9qnvsQhwbu5LQIhDXsDOXf1RSChQt8zpjjop2Y0w="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.LabelNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.LabelNest1.html",
+          "hash": "++V2MwC3/oR57K7GRLd9rBNWGhN0pCuttzbmD6OUc1c="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.LabelNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.LabelNest2.html",
+          "hash": "EVYfYaJuVvQEuiTeSOgHgJBLgrdkoQJ1e9U1z7Vyftc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.LabelTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.LabelTest.html",
+          "hash": "2AepwSMS2IYHsSCxo2OrL6+XJsKOb7HHo2pa+Xqt77I="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.LayerNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.LayerNest1.html",
+          "hash": "iDZlikTESHZX4dz1sxzpEafp2MvbXniOzyBTV/S7rmI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.LayerNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.LayerNest2.html",
+          "hash": "fkyJ0WLGbyCHW5yeHGchtSaFKf0SAFc5rHOpxOddP4c="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.LayerTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.LayerTest.html",
+          "hash": "+7Urdz3wJJeMFrH1y6uYk8fHtroO4Awgohz2bEtvelU="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.MinMaxSliderNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.MinMaxSliderNest1.html",
+          "hash": "Ibw6PfIRGZfZx2KA5wPR2ji6gefQTnDd/NfrokTlLoM="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.MinMaxSliderNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.MinMaxSliderNest2.html",
+          "hash": "j0u0VuLI6wuYMxT3HkMcx/fgj6LN/+LPcetQa/WYia4="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.MinMaxSliderTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.MinMaxSliderTest.html",
+          "hash": "vNHc/EyvX4YBdDOIqhOm4rSIc72n3JDqj4BRBKeiKFo="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.MinMaxValueNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.MinMaxValueNest1.html",
+          "hash": "DbY9zyUkDwnuPJRDaY4EBEwRPosjV7At3Jp+pSf4h2A="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.MinMaxValueNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.MinMaxValueNest2.html",
+          "hash": "YLYkhG/HcSDAZbnccKAjxpjcz588biG5VRN9JmFSKc4="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.MinMaxValueTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.MinMaxValueTest.html",
+          "hash": "QnFOBZchv75Ba+8K1oG7UEan7q/vwim/cZDS6YWSDRc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.MyClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.MyClass.html",
+          "hash": "CoWo5CeGcNMVhBAre1dRoxgjA1PNu0DiiPUH/2nCGdI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.MyStruct.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.MyStruct.html",
+          "hash": "MyGyDnNt4iPwpoaiYmPFkw2S6x5EV14dnUPGO7p15M8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.OnValueChangedNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.OnValueChangedNest1.html",
+          "hash": "4aIGz0rjrrcoZ8ezbDqnMfyzGPdHze2FldW3HGyptyw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.OnValueChangedNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.OnValueChangedNest2.html",
+          "hash": "4YN7ODdUDOeoV2OjoMlkh36YeIfEyerTcLzZqV0evmk="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.OnValueChangedTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.OnValueChangedTest.html",
+          "hash": "WTzQujoUo+gOSTk33X6bQkWsdhdgLgVvHmUAr+8Dh4s="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ProgressBarNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ProgressBarNest1.html",
+          "hash": "0A+YELJVUyMJnLzMC0YvJ5dOrQ9IOSYj3+q/uO4LuGQ="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ProgressBarNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ProgressBarNest2.html",
+          "hash": "l+lQ+V0oo7qPCMcBoTwNsrX8zm5H09Sq9JMBAK5AvDw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ProgressBarTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ProgressBarTest.html",
+          "hash": "AMczQfreB/2AJltF6EXFgguuHxclX4eWY48uNC3nYHw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ReadOnlyNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ReadOnlyNest1.html",
+          "hash": "8ooskxcR6TrYfaSLiyWnC0DcdUNzEJNjIpDXmFfcm0c="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ReadOnlyNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ReadOnlyNest2.html",
+          "hash": "XnQTRm62XSGcPTGwydb7XkfbaXthHZbIH5sy1Oqohk8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ReadOnlyTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ReadOnlyTest.html",
+          "hash": "qpntXvcghOQN9sIjKEPDefbELxZR4WbSbKqbDgZqOo4="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ReorderableListTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ReorderableListTest.html",
+          "hash": "aUuO6eS7o6m9i6ydVf9eNp/9YALieXZl6Ohe4QcVgBE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.RequiredNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.RequiredNest1.html",
+          "hash": "isdSk0jDTLs8r7p04CZxeNSFv8jktBJ5SGl4fEGAhsE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.RequiredNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.RequiredNest2.html",
+          "hash": "aS2lkrK1K7Bwt0ALEymlFqFenPlOG6L7LsIF6N/J/lY="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.RequiredTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.RequiredTest.html",
+          "hash": "iYxzbrD4cVE6EBmuZBXx9hQd7CfzZ2g4FaszG2nEZ/w="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ResizableTextAreaNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ResizableTextAreaNest1.html",
+          "hash": "gp92KbO1Jyzn1fOVyM+9/PD8WDhVUaUkIX736hYYlYA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ResizableTextAreaNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ResizableTextAreaNest2.html",
+          "hash": "Ib9A2uudJBIzmsfJ88/ofldLrdHVuyVx3G9VJXPJjZc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ResizableTextAreaTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ResizableTextAreaTest.html",
+          "hash": "BgHNUlWsAPE1CUJMPi1h7NH1CjBbi2Xv5qTjF8jGlAE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.SceneNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.SceneNest1.html",
+          "hash": "jKitCGJSBFVkdfDK8VjMlcOChUoe5MkGYnsqqBjmt2I="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.SceneNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.SceneNest2.html",
+          "hash": "J+uEOrsul1N1+8A6Kn2bJsGtXmt9rXTbbxtlBCVxQhI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.SceneTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.SceneTest.html",
+          "hash": "PyB1EFFxt+eyOdd+SkH9Cme24EoR+PgAoDuKpfxTP+8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ShowAssetPreviewNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ShowAssetPreviewNest1.html",
+          "hash": "VKt+3nH1wZz/4RibGn3yS2caU4C4lLfR3Bu+SCG5GoI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ShowAssetPreviewNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ShowAssetPreviewNest2.html",
+          "hash": "/ZHSJqLHF7wQsGEph5/7GRN+XSDBbWl8vD2FKL19PYI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ShowAssetPreviewTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ShowAssetPreviewTest.html",
+          "hash": "+WRwKeeHJ5yqgmUrseu/lDMZsik33nG8HiiC8qyf4ro="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ShowIfEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ShowIfEnum.html",
+          "hash": "4t/rxAlHJHdtFIKkfmUmP+Zy5Ah+d8AmEYbqzt13GOQ="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ShowIfEnumFlag.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ShowIfEnumFlag.html",
+          "hash": "mAeEpmfbJdok+Ckl3dMmrbIe0WoXkUq5csxUJU0+uc0="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ShowIfNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ShowIfNest1.html",
+          "hash": "+QeA4RC387QPTS41dmdlCqpt1UeNHUeNh2qTmmjcwFU="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ShowIfNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ShowIfNest2.html",
+          "hash": "wcjl3AOhFmf6VxmeBCEKhjfHZ5QMSFd+YBY6ajyyaMQ="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ShowIfTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ShowIfTest.html",
+          "hash": "tKL6g3+qY/mYk5z6iSiX/CuIeFjDRuDoom822Gyc4Ok="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ShowNativePropertyTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ShowNativePropertyTest.html",
+          "hash": "H1ewYyANR5MRB8WgjgRkBUiOT809ER+TEsKw+b1i7sk="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ShowNonSerializedFieldTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ShowNonSerializedFieldTest.html",
+          "hash": "38SoM8n0DjDZ1PlwEMcF8lnpkgKM0nz4/xGqUNp8QMg="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.SomeStruct.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.SomeStruct.html",
+          "hash": "70kxkE2nNDk+hY1NdMMrepkSlUmTtcda7jkgmodd2bs="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.SortingLayerNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.SortingLayerNest1.html",
+          "hash": "gL6/J5XR9pm614wu6WHEqT5x1geVKwBWE5Np502Bqb8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.SortingLayerNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.SortingLayerNest2.html",
+          "hash": "q1nCehjwmZr6HChQK+ofK/R9T2R/f6AMUd5+MX2+x6o="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.SortingLayerTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.SortingLayerTest.html",
+          "hash": "s3Q0zUmpAmxCaljel2UktRWjbaOz4+3zHDCyTAzNqX8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.TagNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.TagNest1.html",
+          "hash": "ZfWJmxsL4CkRBhNGYOyAj76k0GLv6K7LvlFZI+A/JgM="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.TagNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.TagNest2.html",
+          "hash": "3U/6+63uZ5OSaERczOWq6duwcUZFA8FAR5vT4drLC1g="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.TagTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.TagTest.html",
+          "hash": "mGpAmdlrkIyZ/+YfftsAyeN/GVQewbgEcVOpbKgX7Fw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.TestEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.TestEnum.html",
+          "hash": "UtillQchF/me5sWM1zMAaI9NA5kXBTHuIWPKvK7VORU="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ValidateInputInheritedNest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ValidateInputInheritedNest.html",
+          "hash": "z0iPmpYxZlBbGoXE4x1367vlRe2f7fXSp7F6Chy4tAA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ValidateInputNest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ValidateInputNest1.html",
+          "hash": "bHEYfDkurvCin0ZVUKcmvVul54IwyFHWz13IarMKLoY="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ValidateInputNest2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ValidateInputNest2.html",
+          "hash": "BUH4ZTFWRHUmXO5bpZqYnp3/rUlUzSQk4+RaYJU+Uuc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.ValidateInputTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.ValidateInputTest.html",
+          "hash": "Qu6wGhb9UHm9Wc6cNMAKWO8F57g5+AllwXcTEQVSjlY="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test._NaughtyComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test._NaughtyComponent.html",
+          "hash": "jWcuo24qpj7lHqS1CfCKWjwpkQjchL4ozzNbulh+I5U="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test._NaughtyScriptableObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test._NaughtyScriptableObject.html",
+          "hash": "CTKMHMqZTrbBzjlmZB4LWW4Ft4a0xMNtqYYqXH0REy4="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test._TestScriptableObjectA.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test._TestScriptableObjectA.html",
+          "hash": "iMDljgMzwi6Sy4sezT2q5r7JzMW2WJXWVoIgAwUolJQ="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test._TestScriptableObjectB.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test._TestScriptableObjectB.html",
+          "hash": "jKyYeZ4j3CKNUDpKRPu6HF1/eSHi+lt62E8eWsruMJw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.Test.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.Test.html",
+          "hash": "BDwbDU9nBMGgD7RoQng6x/vQNrjwL1rRQkFj2CCfVMQ="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.ValidateInputAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.ValidateInputAttribute.html",
+          "hash": "a8zRdjJEFXVQOcl4uHyPf2abzLeVsh8JuY+eie38i/U="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.ValidatorAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.ValidatorAttribute.html",
+          "hash": "8Dh4q5KeiNnK+b1VJCwHwb3UpADEdR3QLsJwNWGTdKk="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NaughtyAttributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NaughtyAttributes.html",
+          "hash": "TP066zGq9MOfJucH4lccEX8eNwR64VVB2MAm749wmJM="
         }
       },
       "version": ""
@@ -768,7 +2792,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "FLZVQdDHFTqtd8FcYlnsF1RQeUJQ+FBB7miZBraVOQw="
+          "hash": "R4YuB+hVPxzCn0Ij6owMZuEkyycNi/IvjDNKwO/+ZQI="
         }
       },
       "version": ""
@@ -779,7 +2803,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/evolution-of-cars.html",
-          "hash": "coKP6h8YzsnaiDv6bgPDoAQDLzXliACLMDR6zQacKTE="
+          "hash": "5XLSa/KnlPMHIEVH+eJm8b74kfaxmBycU8R4zinqRKk="
         }
       },
       "version": ""
@@ -790,7 +2814,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/evolution-of-crowds.html",
-          "hash": "Jb1ZQwDsSQG3A/403p7oP83OzUypOEwWR5Oj2wuDNkI="
+          "hash": "gSv1iu8Ogb6oD6piMiSAXm7eo+R94wnMhoUO0OtpTQg="
         }
       },
       "version": ""
@@ -834,7 +2858,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/run-of-destiny.html",
-          "hash": "DdjJN8Du1fu38AJT2f3jgQ/7OTLq7WisKEH6CuNGmf8="
+          "hash": "05w5lhN9Iz59OSciuEr5dfKstY4CqYMsirQ9/ZhacRk="
         }
       },
       "version": ""
@@ -845,7 +2869,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/stack-of-coffees.html",
-          "hash": "M/0XRrtWg6ywMrhH+/oJJOE/eXkoK5jaDApR+jvYwS0="
+          "hash": "mzejrDS2xmRWDsIob6uJMQ7mWJFQkvIP+FktYNi4Vdk="
         }
       },
       "version": ""
@@ -857,6 +2881,36 @@
         ".html": {
           "relative_path": "docs/toc.html",
           "hash": "vsdGtKcMnxZrYHu6v7sPgduuafI4tyvS+PfzC09fwck="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/evolution-of-car.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/evolution-of-car.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/evolution-of-crowd.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/evolution-of-crowd.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/run-of-destiny.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/run-of-destiny.png"
         }
       },
       "version": ""

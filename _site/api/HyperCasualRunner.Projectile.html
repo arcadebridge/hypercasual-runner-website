@@ -72,7 +72,7 @@
 
   <h1 id="HyperCasualRunner_Projectile" data-uid="HyperCasualRunner.Projectile" class="text-break">Class Projectile
 </h1>
-  <div class="markdown level0 summary"><p>Projectile Pool spawns this, ProjectileShooterModifier uses this to shoot Projectile. It contains damage and speed of the projectiles.</p>
+  <div class="markdown level0 summary"><p>Projectile Pool spawns this, ProjectileShooterModifier uses this to shoot Projectile. It contains damage and speed of the projectiles. It damages Damageable types.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
@@ -396,18 +396,19 @@
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public class Projectile : MonoBehaviour</code></pre>
   </div>
-  <h3 id="fields">Fields
+  <h3 id="properties">Properties
 </h3>
 
 
-  <h4 id="HyperCasualRunner_Projectile_Died" data-uid="HyperCasualRunner.Projectile.Died">Died</h4>
+  <a id="HyperCasualRunner_Projectile_Pool_" data-uid="HyperCasualRunner.Projectile.Pool*"></a>
+  <h4 id="HyperCasualRunner_Projectile_Pool" data-uid="HyperCasualRunner.Projectile.Pool">Pool</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public Action&lt;Projectile&gt; Died</code></pre>
+    <pre><code class="lang-csharp hljs">public ProjectilePool Pool { get; set; }</code></pre>
   </div>
-  <h5 class="fieldValue">Field Value</h5>
+  <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
     <thead>
       <tr>
@@ -417,7 +418,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Action&lt;T&gt;</span>&lt;<a class="xref" href="HyperCasualRunner.Projectile.html">Projectile</a>&gt;</td>
+        <td><a class="xref" href="HyperCasualRunner.ScriptableObjects.ProjectilePool.html">ProjectilePool</a></td>
         <td></td>
       </tr>
     </tbody>

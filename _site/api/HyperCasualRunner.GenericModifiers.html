@@ -77,22 +77,25 @@
     <h3 id="classes">Classes
 </h3>
       <h4><a class="xref" href="HyperCasualRunner.GenericModifiers.AnimationModifier.html">AnimationModifier</a></h4>
-      <section><p>Modifies all the AnimationModifiables.</p>
+      <section><p>Modifies all the AnimationModifiables. It uses common Modifier-Modifiable pattern, so it acts on top of every Modifiable object.</p>
 </section>
       <h4><a class="xref" href="HyperCasualRunner.GenericModifiers.AnimatorModifier.html">AnimatorModifier</a></h4>
-      <section><p>Modifies all the AnimatorModifiables.</p>
+      <section><p>Modifies all the AnimatorModifiables. It uses common Modifier-Modifiable pattern, so it acts on top of every Modifiable object.</p>
 </section>
       <h4><a class="xref" href="HyperCasualRunner.GenericModifiers.GenericModifier-1.html">GenericModifier&lt;T&gt;</a></h4>
-      <section><p>It stores array of T in the beginning of the game. So derived classes can use it for custom effects.</p>
+      <section><p>It stores array of T in the beginning of the game by looping every PopulatedEntity and use GetComponent on them.
+So derived classes can use it for custom effects. You can see examples in AnimationModifier or TransformationModifier.</p>
 </section>
       <h4><a class="xref" href="HyperCasualRunner.GenericModifiers.IntervalTriggerModifier.html">IntervalTriggerModifier</a></h4>
-      <section><p>Modifies all IntervalTriggerModifiables.</p>
+      <section><p>Modifies all IntervalTriggerModifiables. This triggers their Trigger method on every specified interval.
+It uses common Modifier-Modifiable pattern, so it acts on top of every Modifiable object.</p>
 </section>
       <h4><a class="xref" href="HyperCasualRunner.GenericModifiers.ProjectileShooterModifier.html">ProjectileShooterModifier</a></h4>
-      <section><p>Modifies all ProjectileShooterModifiables.</p>
+      <section><p>Modifies all ProjectileShooterModifiables. They spawn projectile on an specified interval. It uses common Modifier-Modifiable pattern, so it acts on top of every Modifiable object.</p>
 </section>
       <h4><a class="xref" href="HyperCasualRunner.GenericModifiers.TransformationModifier.html">TransformationModifier</a></h4>
-      <section><p>Modifies all TransformationModifiables.</p>
+      <section><p>Modifies all TransformationModifiables. This is useful in situations where you want to transform an object into something else. Like bread to hamburger, old car to new one or bad guy to good guy.
+It uses common Modifier-Modifiable pattern, so it acts on top of every Modifiable object.</p>
 </section>
 </article>
           </div>

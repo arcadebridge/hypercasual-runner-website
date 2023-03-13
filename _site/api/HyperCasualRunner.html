@@ -77,12 +77,14 @@
     <h3 id="classes">Classes
 </h3>
       <h4><a class="xref" href="HyperCasualRunner.BattleArea.html">BattleArea</a></h4>
-      <section><p>Battle Area that is spawned when battle begins, for games like Count Masters</p>
+      <section><p>Battle Area that is spawned when battle begins. It's been used in Master Of Counts.</p>
 </section>
       <h4><a class="xref" href="HyperCasualRunner.BattleAreaTrigger.html">BattleAreaTrigger</a></h4>
-      <section></section>
+      <section><p>This listens for the trigger and if it interacts with CrowdManager, it spawns Battle Area and starts a battle.</p>
+</section>
       <h4><a class="xref" href="HyperCasualRunner.BlinkFeedback.html">BlinkFeedback</a></h4>
-      <section></section>
+      <section><p>Simple blink feedback when hitting damageable things like enemies. It requires renderer to work.</p>
+</section>
       <h4><a class="xref" href="HyperCasualRunner.Collectable.html">Collectable</a></h4>
       <section><p>It gathers all possible CollectableEffects and applies them when PopulationManagerBase contacts with Collectable's collider. You can use multiple effects
 and all of them would be applied to the PopulationManagerBase.</p>
@@ -95,24 +97,28 @@ and all of them would be applied to the PopulationManagerBase.</p>
 Class itself is extensible by allowing you to bind other methods using UnityEvents.</p>
 </section>
       <h4><a class="xref" href="HyperCasualRunner.DOTweenInitializer.html">DOTweenInitializer</a></h4>
-      <section></section>
+      <section><p>Use this when you plan to have huge amounts of PopulatedEntities. Numbers you need to provide depends on the game but as a rule of thumb, when you play the game, if you are seeing a log message
+from DOTween which says increase your tween capacity, you can increase them in here. You will need that especially when you want to create a Master Of Counts game.</p>
+</section>
       <h4><a class="xref" href="HyperCasualRunner.FrameRateSetter.html">FrameRateSetter</a></h4>
-      <section></section>
+      <section><p>It sets the frame rate to the maximum refresh rate of the device's screen. You don't need to place it in the scene in order this to work.</p>
+</section>
       <h4><a class="xref" href="HyperCasualRunner.JumpTrigger.html">JumpTrigger</a></h4>
       <section><p>Use this to trigger jump for PopulatedEntities.</p>
 </section>
       <h4><a class="xref" href="HyperCasualRunner.OrganizeTrigger.html">OrganizeTrigger</a></h4>
-      <section><p>Use this to trigger organizing of CrowdManager manually.</p>
+      <section><p>Use this to trigger organizing of CrowdManager manually. It might come handy in situations that I don't know yet!</p>
 </section>
       <h4><a class="xref" href="HyperCasualRunner.Player.html">Player</a></h4>
-      <section><p>Brain of the player object, it acts like a composition root for other components like RunnerMover, PopulationManagerBase.</p>
+      <section><p>Brain of the player object, it acts like a composition root for other components like RunnerMover, PopulationManagerBase. It controls managers, enables or disables them, initializes them,
+ticks all the tickables, etc. So it's the most crucial piece when you create player controlled character.</p>
 </section>
       <h4><a class="xref" href="HyperCasualRunner.Projectile.html">Projectile</a></h4>
-      <section><p>Projectile Pool spawns this, ProjectileShooterModifier uses this to shoot Projectile. It contains damage and speed of the projectiles.</p>
+      <section><p>Projectile Pool spawns this, ProjectileShooterModifier uses this to shoot Projectile. It contains damage and speed of the projectiles. It damages Damageable types.</p>
 </section>
       <h4><a class="xref" href="HyperCasualRunner.ProjectileShooter.html">ProjectileShooter</a></h4>
       <section><p>ProjectileShooterModifiable uses this class for picking right Projectile for the active PopulatedEntity. Use this when you have multiple gameObjects (like playerLevel1, playerLevel2) and
-everyone of them shoots different projectile. You can see the example in Crowd Evolution demo scene.</p>
+everyone of them shoots different projectile. You can see the example in Evolution Of Crowds demo scene.</p>
 </section>
       <h4><a class="xref" href="HyperCasualRunner.TransformationSingle.html">TransformationSingle</a></h4>
       <section><p>Transforms TransformationModifiable one by one, just like cup filling coffee machines in Coffee Stack game</p>

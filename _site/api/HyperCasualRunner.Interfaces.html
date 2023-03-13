@@ -77,10 +77,11 @@
     <h3 id="interfaces">Interfaces
 </h3>
       <h4><a class="xref" href="HyperCasualRunner.Interfaces.IInitializable.html">IInitializable</a></h4>
-      <section></section>
+      <section><p>Every GenericModifier uses this for getting the required T type. For example TransformationModifier get TransformationModifiable via this interface. Player script initializes all the IInitializables.</p>
+</section>
       <h4><a class="xref" href="HyperCasualRunner.Interfaces.IInteractor.html">IInteractor</a></h4>
       <section><p>When you want certain systems to react certain events. For example, Player implements it and when he interacts with something,
-it disables RunnerMover until interaction ends. In the case of Count Masters, it's the battling phase.</p>
+it disables RunnerMover until interaction ends. In the case of Masters of Count, it's the battling phase.</p>
 </section>
       <h4><a class="xref" href="HyperCasualRunner.Interfaces.ITickable.html">ITickable</a></h4>
       <section><p>Player ticks all ITickable. It literall acts like a custom Update method.</p>
