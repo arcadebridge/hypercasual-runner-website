@@ -2913,6 +2913,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/master-of-counts.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/master-of-counts.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/run-of-destiny.png",
       "output": {
         "resource": {
@@ -2927,6 +2937,16 @@
       "output": {
         "resource": {
           "relative_path": "images/runner-kit-cover.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/stack-of-coffees.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/stack-of-coffees.png"
         }
       },
       "version": ""
